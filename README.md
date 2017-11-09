@@ -1,10 +1,9 @@
 # Career_Fair_Expo
 # Asteroids
 ## Ideas for change
-* Bullet speed
-* Bullet color
+* Pellet speed
+* pellet color
 * Number of asteroids
 * Size of asteroids
 * Asteroids speed
 * Player speed
-* Sprites
